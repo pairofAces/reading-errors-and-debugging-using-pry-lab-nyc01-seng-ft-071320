@@ -2,7 +2,7 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-    "s".Times10 + string
+    "ssssssssss" + string
   else
     string
   end
